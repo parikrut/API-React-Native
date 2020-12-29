@@ -1,0 +1,12 @@
+{
+  "name": "hangryTest",
+  "displayName": "hangryTest",
+  "expo": {
+    "name": "hangryTest",
+    "slug": "hangryTest",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
