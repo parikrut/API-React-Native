@@ -23,8 +23,7 @@ Install Expo client from Play store or App store
 Android - Scan QR code from Expo Client
 Ios -  Scan QR code from Phone Camera
 ```
-Run on Web Browser
-Visit Site [Expo](https://expo.io/@parikrut/projects/hangrytestkp).
+Run on Web Browser [Expo](https://expo.io/@parikrut/projects/hangrytestkp).
 ```
 Open in browser
 once the phone launch in browser
