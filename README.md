@@ -31,4 +31,6 @@ once the phone launch in browser
 scroll down and click open project using brower
 ```
 
-### Sample Images
+### Sample Image
+![](sample/Untitled.png)
+
