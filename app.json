@@ -2,11 +2,13 @@
   "name": "hangryTest",
   "displayName": "hangryTest",
   "expo": {
-    "name": "hangryTest",
-    "slug": "hangryTest",
+    "name": "hangryTest(KP)",
+    "slug": "hangrytestkp",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "description": "",
+    "githubUrl": "https://github.com/parikrut/API-React-Native.git"
   }
 }
